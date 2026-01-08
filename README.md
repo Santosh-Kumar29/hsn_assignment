@@ -160,10 +160,6 @@ Disambiguation rate: 20-30%
 - 4GB RAM minimum
 - Internet connection (first run for model download)
 
-## License
-
-This is an academic project for AI/ML Engineering Course.
-
 ## Author
 
 Santosh Kumar  
